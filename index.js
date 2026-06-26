@@ -14,7 +14,7 @@ const fs = require("fs");
 // CONFIG
 // =====================
 
-const TOKEN = "sadsdasd";
+const TOKEN = process.env.TOKEN;
 
 const CLIENT_ID = "1466413715963379869";
 
